@@ -1,0 +1,12 @@
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\bin\Debug\CS Rust Raiding Tool.exe.config
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\bin\Debug\CS Rust Raiding Tool.exe.manifest
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\bin\Debug\CS Rust Raiding Tool.application
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\bin\Debug\CS Rust Raiding Tool.exe
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\bin\Debug\CS Rust Raiding Tool.pdb
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.csproj.AssemblyReference.cache
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.csproj.SuggestedBindingRedirects.cache
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.csproj.CoreCompileInputs.cache
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.exe.manifest
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.application
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.exe
+C:\Users\Painf\Source\Repos\JucyBlue\Rust-Code-Raiding-Tool\CS Rust Raiding Tool\obj\Debug\CS Rust Raiding Tool.pdb
